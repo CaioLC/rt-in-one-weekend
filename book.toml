@@ -1,0 +1,6 @@
+[book]
+authors = ["Caio Castro"]
+title = "Ray Tracing in One Weekend: a Rust Journey 🦀"
+language = "en"
+multilingual = false
+src = "src"
